@@ -16,3 +16,6 @@
 [submodule "linux-xlnx"]
 	path = linux-xlnx
 	url = git@github.com:BU-Cyber-Physical-Systems-Lab/linux-xlnx.git
+[submodule "xlnx_scripts"]
+	path = xlnx_scripts
+	url = git@github.com:BU-Cyber-Physical-Systems-Lab/xlnx_scripts.git
